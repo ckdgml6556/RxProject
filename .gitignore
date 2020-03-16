@@ -1,0 +1,28 @@
+# Gradle cache
+.gradle
+
+# Eclipse project files
+.classpath
+.project
+
+# Android Studio project files
+.idea
+.idea/workspace.xml
+*.iml
+
+# Windows thumbnail db
+.DS_Store
+
+# generated files
+bin/
+gen/
+out/
+build/
+
+# Configuration file
+local.properties
+gradle.properties
+fabric.properties
+
+# Keystore file
+*.keystore
