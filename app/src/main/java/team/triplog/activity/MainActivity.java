@@ -1,8 +1,10 @@
-package team.triplog;
+package team.triplog.activity;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import team.triplog.R;
 
 public class MainActivity extends AppCompatActivity {
 
